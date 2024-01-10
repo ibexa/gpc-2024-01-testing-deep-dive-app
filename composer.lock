@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c1b8c8c4fb3549edb226978710f5f678",
+    "content-hash": "af6cb66ea77bfe58a43ac710e7130d0c",
     "packages": [
         {
             "name": "babdev/pagerfanta-bundle",
@@ -1159,16 +1159,16 @@
         },
         {
             "name": "doctrine/inflector",
-            "version": "2.0.8",
+            "version": "2.0.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/inflector.git",
-                "reference": "f9301a5b2fb1216b2b08f02ba04dc45423db6bff"
+                "reference": "2930cd5ef353871c821d5c43ed030d39ac8cfe65"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/inflector/zipball/f9301a5b2fb1216b2b08f02ba04dc45423db6bff",
-                "reference": "f9301a5b2fb1216b2b08f02ba04dc45423db6bff",
+                "url": "https://api.github.com/repos/doctrine/inflector/zipball/2930cd5ef353871c821d5c43ed030d39ac8cfe65",
+                "reference": "2930cd5ef353871c821d5c43ed030d39ac8cfe65",
                 "shasum": ""
             },
             "require": {
@@ -1230,7 +1230,7 @@
             ],
             "support": {
                 "issues": "https://github.com/doctrine/inflector/issues",
-                "source": "https://github.com/doctrine/inflector/tree/2.0.8"
+                "source": "https://github.com/doctrine/inflector/tree/2.0.9"
             },
             "funding": [
                 {
@@ -1246,7 +1246,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-06-16T13:40:37+00:00"
+            "time": "2024-01-15T18:05:13+00:00"
         },
         {
             "name": "doctrine/instantiator",
@@ -1504,16 +1504,16 @@
         },
         {
             "name": "doctrine/orm",
-            "version": "2.17.2",
+            "version": "2.17.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/orm.git",
-                "reference": "393679a4795e49b0b3ac317dce84d0f8888f2b77"
+                "reference": "398ab0547aaf90bdb352b560a94c24f44ff00670"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/orm/zipball/393679a4795e49b0b3ac317dce84d0f8888f2b77",
-                "reference": "393679a4795e49b0b3ac317dce84d0f8888f2b77",
+                "url": "https://api.github.com/repos/doctrine/orm/zipball/398ab0547aaf90bdb352b560a94c24f44ff00670",
+                "reference": "398ab0547aaf90bdb352b560a94c24f44ff00670",
                 "shasum": ""
             },
             "require": {
@@ -1599,9 +1599,9 @@
             ],
             "support": {
                 "issues": "https://github.com/doctrine/orm/issues",
-                "source": "https://github.com/doctrine/orm/tree/2.17.2"
+                "source": "https://github.com/doctrine/orm/tree/2.17.3"
             },
-            "time": "2023-12-20T21:47:52+00:00"
+            "time": "2024-01-16T21:32:04+00:00"
         },
         {
             "name": "doctrine/persistence",
@@ -2559,12 +2559,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ibexa/admin-ui.git",
-                "reference": "6a8427ff634161b52358dfa5d8fb20b00f237fc9"
+                "reference": "7f7a730f34f3f54d55a02f9ce34fb5145c231519"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ibexa/admin-ui/zipball/6a8427ff634161b52358dfa5d8fb20b00f237fc9",
-                "reference": "6a8427ff634161b52358dfa5d8fb20b00f237fc9",
+                "url": "https://api.github.com/repos/ibexa/admin-ui/zipball/7f7a730f34f3f54d55a02f9ce34fb5145c231519",
+                "reference": "7f7a730f34f3f54d55a02f9ce34fb5145c231519",
                 "shasum": ""
             },
             "require": {
@@ -2650,20 +2650,20 @@
                 "issues": "https://github.com/ibexa/admin-ui/issues",
                 "source": "https://github.com/ibexa/admin-ui/tree/main"
             },
-            "time": "2024-01-09T08:10:40+00:00"
+            "time": "2024-01-25T13:32:13+00:00"
         },
         {
             "name": "ibexa/admin-ui-assets",
-            "version": "v4.6.0-beta4",
+            "version": "v4.6.0-rc1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ibexa/admin-ui-assets.git",
-                "reference": "9e0e7d8bfa747d0a5ccf85d2b7590bcbcdda61e3"
+                "reference": "734767302d84a44bf3d5aaecde4b6ac2dd6b861c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ibexa/admin-ui-assets/zipball/9e0e7d8bfa747d0a5ccf85d2b7590bcbcdda61e3",
-                "reference": "9e0e7d8bfa747d0a5ccf85d2b7590bcbcdda61e3",
+                "url": "https://api.github.com/repos/ibexa/admin-ui-assets/zipball/734767302d84a44bf3d5aaecde4b6ac2dd6b861c",
+                "reference": "734767302d84a44bf3d5aaecde4b6ac2dd6b861c",
                 "shasum": ""
             },
             "require": {
@@ -2698,9 +2698,9 @@
             "description": "External assets dependencies for Ibexa AdminUI",
             "support": {
                 "issues": "https://github.com/ibexa/admin-ui-assets/issues",
-                "source": "https://github.com/ibexa/admin-ui-assets/tree/v4.6.0-beta4"
+                "source": "https://github.com/ibexa/admin-ui-assets/tree/v4.6.0-rc1"
             },
-            "time": "2023-11-29T07:54:05+00:00"
+            "time": "2024-01-23T16:30:47+00:00"
         },
         {
             "name": "ibexa/content-forms",
@@ -2708,12 +2708,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ibexa/content-forms.git",
-                "reference": "d54af6d8f29355b359085d5f4e2da1187d748fce"
+                "reference": "90e9fe938c3ee7a262ccd57e9e253cd09869df91"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ibexa/content-forms/zipball/d54af6d8f29355b359085d5f4e2da1187d748fce",
-                "reference": "d54af6d8f29355b359085d5f4e2da1187d748fce",
+                "url": "https://api.github.com/repos/ibexa/content-forms/zipball/90e9fe938c3ee7a262ccd57e9e253cd09869df91",
+                "reference": "90e9fe938c3ee7a262ccd57e9e253cd09869df91",
                 "shasum": ""
             },
             "require": {
@@ -2775,7 +2775,7 @@
                 "issues": "https://github.com/ibexa/content-forms/issues",
                 "source": "https://github.com/ibexa/content-forms/tree/main"
             },
-            "time": "2023-12-15T09:49:49+00:00"
+            "time": "2024-01-24T16:08:01+00:00"
         },
         {
             "name": "ibexa/core",
@@ -2783,12 +2783,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ibexa/core.git",
-                "reference": "a94014f909ceb39e166a1ac3dc26df177b21ab60"
+                "reference": "46e3884c2259d4c9badfd70c01f788d8b7b4e87d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ibexa/core/zipball/a94014f909ceb39e166a1ac3dc26df177b21ab60",
-                "reference": "a94014f909ceb39e166a1ac3dc26df177b21ab60",
+                "url": "https://api.github.com/repos/ibexa/core/zipball/46e3884c2259d4c9badfd70c01f788d8b7b4e87d",
+                "reference": "46e3884c2259d4c9badfd70c01f788d8b7b4e87d",
                 "shasum": ""
             },
             "require": {
@@ -2922,7 +2922,7 @@
             "support": {
                 "source": "https://github.com/ibexa/core/tree/main"
             },
-            "time": "2024-01-09T08:32:17+00:00"
+            "time": "2024-01-24T18:45:12+00:00"
         },
         {
             "name": "ibexa/core-persistence",
@@ -2930,12 +2930,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ibexa/core-persistence.git",
-                "reference": "d3710a6d26bc74eaa76196573091c2e349335a77"
+                "reference": "aa6aedff8053b100f475bc8705ea99f8a2c0427e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ibexa/core-persistence/zipball/d3710a6d26bc74eaa76196573091c2e349335a77",
-                "reference": "d3710a6d26bc74eaa76196573091c2e349335a77",
+                "url": "https://api.github.com/repos/ibexa/core-persistence/zipball/aa6aedff8053b100f475bc8705ea99f8a2c0427e",
+                "reference": "aa6aedff8053b100f475bc8705ea99f8a2c0427e",
                 "shasum": ""
             },
             "require": {
@@ -2984,7 +2984,7 @@
                 "issues": "https://github.com/ibexa/core-persistence/issues",
                 "source": "https://github.com/ibexa/core-persistence/tree/main"
             },
-            "time": "2023-12-07T11:20:51+00:00"
+            "time": "2024-01-11T12:46:46+00:00"
         },
         {
             "name": "ibexa/cron",
@@ -3332,12 +3332,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ibexa/fieldtype-richtext.git",
-                "reference": "97c1b76151cec1735027ca9341efa4ac63048970"
+                "reference": "cba49677789329662eea25b9538219fdbfcb107d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ibexa/fieldtype-richtext/zipball/97c1b76151cec1735027ca9341efa4ac63048970",
-                "reference": "97c1b76151cec1735027ca9341efa4ac63048970",
+                "url": "https://api.github.com/repos/ibexa/fieldtype-richtext/zipball/cba49677789329662eea25b9538219fdbfcb107d",
+                "reference": "cba49677789329662eea25b9538219fdbfcb107d",
                 "shasum": ""
             },
             "require": {
@@ -3409,7 +3409,7 @@
                 "issues": "https://github.com/ibexa/fieldtype-richtext/issues",
                 "source": "https://github.com/ibexa/fieldtype-richtext/tree/main"
             },
-            "time": "2023-12-22T14:55:08+00:00"
+            "time": "2024-01-17T08:56:55+00:00"
         },
         {
             "name": "ibexa/graphql",
@@ -3417,12 +3417,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ibexa/graphql.git",
-                "reference": "4fff989f6a652a2f11d22260fdaa074c3c5e5c3c"
+                "reference": "fe453312355722339a2729027af3f70a03140ab3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ibexa/graphql/zipball/4fff989f6a652a2f11d22260fdaa074c3c5e5c3c",
-                "reference": "4fff989f6a652a2f11d22260fdaa074c3c5e5c3c",
+                "url": "https://api.github.com/repos/ibexa/graphql/zipball/fe453312355722339a2729027af3f70a03140ab3",
+                "reference": "fe453312355722339a2729027af3f70a03140ab3",
                 "shasum": ""
             },
             "require": {
@@ -3493,7 +3493,7 @@
                 "issues": "https://github.com/ibexa/graphql/issues",
                 "source": "https://github.com/ibexa/graphql/tree/main"
             },
-            "time": "2023-09-29T10:39:33+00:00"
+            "time": "2024-01-22T13:50:54+00:00"
         },
         {
             "name": "ibexa/http-cache",
@@ -3501,12 +3501,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ibexa/http-cache.git",
-                "reference": "a6b294ff1998688f8184defea5ab8e6fe29854d2"
+                "reference": "54db6d59c36315c85d5c6c077fccaa0c4f47652d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ibexa/http-cache/zipball/a6b294ff1998688f8184defea5ab8e6fe29854d2",
-                "reference": "a6b294ff1998688f8184defea5ab8e6fe29854d2",
+                "url": "https://api.github.com/repos/ibexa/http-cache/zipball/54db6d59c36315c85d5c6c077fccaa0c4f47652d",
+                "reference": "54db6d59c36315c85d5c6c077fccaa0c4f47652d",
                 "shasum": ""
             },
             "require": {
@@ -3569,7 +3569,7 @@
                 "issues": "https://github.com/ibexa/http-cache/issues",
                 "source": "https://github.com/ibexa/http-cache/tree/main"
             },
-            "time": "2023-09-28T13:28:22+00:00"
+            "time": "2024-01-22T13:47:31+00:00"
         },
         {
             "name": "ibexa/i18n",
@@ -3612,12 +3612,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ibexa/notifications.git",
-                "reference": "928281f074919a5dc1af461f81586d2b8748d3e3"
+                "reference": "0ea1052c6360f844b7d895a96fc14d2434a213bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ibexa/notifications/zipball/928281f074919a5dc1af461f81586d2b8748d3e3",
-                "reference": "928281f074919a5dc1af461f81586d2b8748d3e3",
+                "url": "https://api.github.com/repos/ibexa/notifications/zipball/0ea1052c6360f844b7d895a96fc14d2434a213bb",
+                "reference": "0ea1052c6360f844b7d895a96fc14d2434a213bb",
                 "shasum": ""
             },
             "require": {
@@ -3666,7 +3666,7 @@
                 "issues": "https://github.com/ibexa/notifications/issues",
                 "source": "https://github.com/ibexa/notifications/tree/main"
             },
-            "time": "2023-12-07T11:21:43+00:00"
+            "time": "2024-01-12T07:45:04+00:00"
         },
         {
             "name": "ibexa/oss",
@@ -3674,12 +3674,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ibexa/oss.git",
-                "reference": "1853e09b5ce2bc6ca0ad3544b64b310c3ac8fe11"
+                "reference": "556351a4eb7d1bf401885b4bab6985c717767563"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ibexa/oss/zipball/1853e09b5ce2bc6ca0ad3544b64b310c3ac8fe11",
-                "reference": "1853e09b5ce2bc6ca0ad3544b64b310c3ac8fe11",
+                "url": "https://api.github.com/repos/ibexa/oss/zipball/556351a4eb7d1bf401885b4bab6985c717767563",
+                "reference": "556351a4eb7d1bf401885b4bab6985c717767563",
                 "shasum": ""
             },
             "require": {
@@ -3772,7 +3772,7 @@
                 "issues": "https://github.com/ibexa/oss/issues",
                 "source": "https://github.com/ibexa/oss/tree/master"
             },
-            "time": "2023-12-21T12:40:02+00:00"
+            "time": "2024-01-18T11:44:12+00:00"
         },
         {
             "name": "ibexa/post-install",
@@ -3843,12 +3843,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ibexa/rest.git",
-                "reference": "93710f18afdc50cc6b4b605aeeac76189375288f"
+                "reference": "b420bb5f5734792910e5e607fc269fbe469ac972"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ibexa/rest/zipball/93710f18afdc50cc6b4b605aeeac76189375288f",
-                "reference": "93710f18afdc50cc6b4b605aeeac76189375288f",
+                "url": "https://api.github.com/repos/ibexa/rest/zipball/b420bb5f5734792910e5e607fc269fbe469ac972",
+                "reference": "b420bb5f5734792910e5e607fc269fbe469ac972",
                 "shasum": ""
             },
             "require": {
@@ -3918,7 +3918,7 @@
                 "issues": "https://github.com/ibexa/rest/issues",
                 "source": "https://github.com/ibexa/rest/tree/main"
             },
-            "time": "2024-01-05T08:57:08+00:00"
+            "time": "2024-01-22T13:56:05+00:00"
         },
         {
             "name": "ibexa/search",
@@ -3926,12 +3926,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ibexa/search.git",
-                "reference": "c33343b2239d7f9b980199e3eb0087af03adbed9"
+                "reference": "f1ffcee2dacb4426c1e42694cffe6ef56cb6b980"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ibexa/search/zipball/c33343b2239d7f9b980199e3eb0087af03adbed9",
-                "reference": "c33343b2239d7f9b980199e3eb0087af03adbed9",
+                "url": "https://api.github.com/repos/ibexa/search/zipball/f1ffcee2dacb4426c1e42694cffe6ef56cb6b980",
+                "reference": "f1ffcee2dacb4426c1e42694cffe6ef56cb6b980",
                 "shasum": ""
             },
             "require": {
@@ -3984,7 +3984,7 @@
                 "issues": "https://github.com/ibexa/search/issues",
                 "source": "https://github.com/ibexa/search/tree/main"
             },
-            "time": "2024-01-08T14:31:08+00:00"
+            "time": "2024-01-22T13:57:11+00:00"
         },
         {
             "name": "ibexa/solr",
@@ -3992,12 +3992,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ibexa/solr.git",
-                "reference": "9e8b7896a886c486baa4496548a255f8986f8891"
+                "reference": "0be9b85a6649664240a3cbc62d2b4f0e9d2788e2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ibexa/solr/zipball/9e8b7896a886c486baa4496548a255f8986f8891",
-                "reference": "9e8b7896a886c486baa4496548a255f8986f8891",
+                "url": "https://api.github.com/repos/ibexa/solr/zipball/0be9b85a6649664240a3cbc62d2b4f0e9d2788e2",
+                "reference": "0be9b85a6649664240a3cbc62d2b4f0e9d2788e2",
                 "shasum": ""
             },
             "require": {
@@ -4060,7 +4060,7 @@
                 "issues": "https://github.com/ibexa/solr/issues",
                 "source": "https://github.com/ibexa/solr/tree/main"
             },
-            "time": "2023-12-14T12:45:12+00:00"
+            "time": "2024-01-17T13:55:16+00:00"
         },
         {
             "name": "ibexa/standard-design",
@@ -4125,12 +4125,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ibexa/system-info.git",
-                "reference": "706de3bdb28d696b5c3189decc52c915de781581"
+                "reference": "e43b7e950c90515f21cc27c09bfee984dd6a703a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ibexa/system-info/zipball/706de3bdb28d696b5c3189decc52c915de781581",
-                "reference": "706de3bdb28d696b5c3189decc52c915de781581",
+                "url": "https://api.github.com/repos/ibexa/system-info/zipball/e43b7e950c90515f21cc27c09bfee984dd6a703a",
+                "reference": "e43b7e950c90515f21cc27c09bfee984dd6a703a",
                 "shasum": ""
             },
             "require": {
@@ -4197,7 +4197,7 @@
                 "issues": "https://github.com/ibexa/system-info/issues",
                 "source": "https://github.com/ibexa/system-info/tree/main"
             },
-            "time": "2023-09-05T07:22:01+00:00"
+            "time": "2024-01-22T13:48:33+00:00"
         },
         {
             "name": "ibexa/templated-uri-bundle",
@@ -4332,17 +4332,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ibexa/user.git",
-                "reference": "c558e934d2dd64d48f1d90147f510d065db15912"
+                "reference": "6939cc64e2b0a5ab785e7457983ca68e94dc6045"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ibexa/user/zipball/c558e934d2dd64d48f1d90147f510d065db15912",
-                "reference": "c558e934d2dd64d48f1d90147f510d065db15912",
+                "url": "https://api.github.com/repos/ibexa/user/zipball/6939cc64e2b0a5ab785e7457983ca68e94dc6045",
+                "reference": "6939cc64e2b0a5ab785e7457983ca68e94dc6045",
                 "shasum": ""
             },
             "require": {
                 "ibexa/content-forms": "~4.6.0@dev",
                 "ibexa/core": "~4.6.0@dev",
+                "ibexa/notifications": "~4.6.0@dev",
                 "jms/translation-bundle": "^1.5",
                 "php": "^7.4 || ^8.0",
                 "symfony/config": "^5.0",
@@ -4404,7 +4405,7 @@
                 "issues": "https://github.com/ibexa/user/issues",
                 "source": "https://github.com/ibexa/user/tree/main"
             },
-            "time": "2024-01-04T10:18:56+00:00"
+            "time": "2024-01-25T10:13:37+00:00"
         },
         {
             "name": "imagine/imagine",
@@ -5309,16 +5310,16 @@
         },
         {
             "name": "mck89/peast",
-            "version": "v1.15.4",
+            "version": "v1.16.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mck89/peast.git",
-                "reference": "1df4dc28a6b5bb7ab117ab073c1712256e954e18"
+                "reference": "63dee902bd281c792f1dd760b6df268682032ed0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mck89/peast/zipball/1df4dc28a6b5bb7ab117ab073c1712256e954e18",
-                "reference": "1df4dc28a6b5bb7ab117ab073c1712256e954e18",
+                "url": "https://api.github.com/repos/mck89/peast/zipball/63dee902bd281c792f1dd760b6df268682032ed0",
+                "reference": "63dee902bd281c792f1dd760b6df268682032ed0",
                 "shasum": ""
             },
             "require": {
@@ -5331,7 +5332,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.15.4-dev"
+                    "dev-master": "1.16.0-dev"
                 }
             },
             "autoload": {
@@ -5352,9 +5353,9 @@
             "description": "Peast is PHP library that generates AST for JavaScript code",
             "support": {
                 "issues": "https://github.com/mck89/peast/issues",
-                "source": "https://github.com/mck89/peast/tree/v1.15.4"
+                "source": "https://github.com/mck89/peast/tree/v1.16.0"
             },
-            "time": "2023-08-12T08:29:29+00:00"
+            "time": "2024-01-11T14:36:12+00:00"
         },
         {
             "name": "monolog/monolog",
@@ -13948,7 +13949,70 @@
             "time": "2023-08-18T12:36:18+00:00"
         }
     ],
-    "packages-dev": [],
+    "packages-dev": [
+        {
+            "name": "phpstan/phpstan",
+            "version": "1.10.57",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phpstan/phpstan.git",
+                "reference": "1627b1d03446904aaa77593f370c5201d2ecc34e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/1627b1d03446904aaa77593f370c5201d2ecc34e",
+                "reference": "1627b1d03446904aaa77593f370c5201d2ecc34e",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.2|^8.0"
+            },
+            "conflict": {
+                "phpstan/phpstan-shim": "*"
+            },
+            "bin": [
+                "phpstan",
+                "phpstan.phar"
+            ],
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "bootstrap.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "PHPStan - PHP Static Analysis Tool",
+            "keywords": [
+                "dev",
+                "static analysis"
+            ],
+            "support": {
+                "docs": "https://phpstan.org/user-guide/getting-started",
+                "forum": "https://github.com/phpstan/phpstan/discussions",
+                "issues": "https://github.com/phpstan/phpstan/issues",
+                "security": "https://github.com/phpstan/phpstan/security/policy",
+                "source": "https://github.com/phpstan/phpstan-src"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/ondrejmirtes",
+                    "type": "github"
+                },
+                {
+                    "url": "https://github.com/phpstan",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/phpstan/phpstan",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2024-01-24T11:51:34+00:00"
+        }
+    ],
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {

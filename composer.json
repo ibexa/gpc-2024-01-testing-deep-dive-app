@@ -45,7 +45,11 @@
         "symfony/polyfill-iconv": "*",
         "symfony/polyfill-php72": "*"
     },
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
+    },
     "scripts": {
+        "phpstan": "phpstan",
         "auto-scripts": {
             "cache:clear": "symfony-cmd",
             "assets:install %PUBLIC_DIR%": "symfony-cmd",
