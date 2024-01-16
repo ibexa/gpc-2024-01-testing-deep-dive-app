@@ -45,3 +45,8 @@ jobs:
 
             -   name: Run PHPStan analysis
                 run: composer run-script phpstan
+
+            -   name: Run PHPUnit
+                run: composer run-script test
+                env:
+                    DATABASE_URL: "pgsql://postgres:postgres@localhost:${{ job.services.postgres.ports[5432] }}/testdb?server_version=15"
