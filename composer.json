@@ -9,6 +9,7 @@
         "ext-iconv": "*",
         "http-interop/http-factory-guzzle": "^1.2",
         "ibexa/oss": "4.6.x-dev",
+        "ibexa/gpc-2024-01-testing-deep-dive-bundle": "dev-main",
         "symfony/console": "5.4.*",
         "symfony/dotenv": "5.4.*",
         "symfony/flex": "^1.17|^2",
@@ -84,10 +85,14 @@
             "endpoint": "https://api.github.com/repos/ibexa/recipes-dev/contents/index.json?ref=flex/main"
         }
     },
-    "repositories": {
-        "ibexa": {
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:ibexa/gpc-2024-01-testing-deep-dive-bundle.git"
+        },
+        {
             "type": "composer",
             "url": "https://updates.ibexa.co"
         }
-    }
+    ]
 }

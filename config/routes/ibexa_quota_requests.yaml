@@ -1,0 +1,4 @@
+ibexa_quota_request:
+    resource: '@QuotaRequestBundle/Resources/routing.yaml'
+    defaults:
+        siteaccess_group_whitelist: '%admin_group_name%'
