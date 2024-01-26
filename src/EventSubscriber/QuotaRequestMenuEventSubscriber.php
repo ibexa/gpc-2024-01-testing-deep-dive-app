@@ -25,7 +25,7 @@ final class QuotaRequestMenuEventSubscriber implements EventSubscriberInterface,
 
         $contentMenu = $menu[MainMenuBuilder::ITEM_ADMIN];
         if ($contentMenu === null) {
-            $this->logger->warning(sprintf(
+            $this->logger?->warning(sprintf(
                 'Main admin menu is missing %s item. Failed to add %s menu position.',
                 MainMenuBuilder::ITEM_ADMIN,
                 'Quota requests',
